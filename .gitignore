@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.spec
+build/
+dist/
+config.json
+debug_log.txt
+*.bat
