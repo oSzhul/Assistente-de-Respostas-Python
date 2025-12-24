@@ -37,4 +37,4 @@ Este projeto combina tecnologia de reconhecimento de texto com modelos de IA par
 
 1. Clique no botão de download acima ou [acesse a página de Releases](https://github.com/oSzhul/Assistente-de-Respostas-Python/releases/latest).
 2. Na seção **Assets**, baixe o arquivo **`.zip`** mais recente.
-3. Extraia a pasta e execute o `Assistente_Final.exe`.
+3. Extraia a pasta e execute o `AssistentePRO.exe`.
